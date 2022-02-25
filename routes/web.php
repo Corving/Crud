@@ -29,3 +29,7 @@ Route::get('/posts2',[PostController::class,'index'])->name('posts');
 
 Route::get('/posts2',[PostController::class,'index'])->name('posts2');
 Route::get('/posts2',[PostController::class,'index'])->name('posts3');
+
+Route::get('/posts2',[PostController::class,'index'])->name('posts7');
+
+Route::get('/posts2',[PostController::class,'index'])->name('posts6');
